@@ -1,0 +1,21 @@
+body .landing column {
+  height: 100vh; }
+body .white {
+  background-color: #CBC4BE; }
+body .black {
+  border: red 2px solid;
+  background-color: #020002; }
+body .title {
+  border: red 2px solid;
+  color: white; }
+body .image {
+  border: red 2px solid;
+  height: 15vh;
+  width: 15vw;
+  justify-content: center;
+  align-items: center; }
+body .column {
+  border: blue 2px solid;
+  height: auto; }
+
+/*# sourceMappingURL=styles.css.map */
