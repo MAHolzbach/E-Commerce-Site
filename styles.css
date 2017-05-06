@@ -10,9 +10,15 @@ body .landing {
       font-family: "Slabo 27px", serif;
       margin: 3px;
       color: white; }
-    body .landing .hero-head a:hover {
-      background: #020002;
-      border-bottom: white 1px solid; }
+      body .landing .hero-head a:hover {
+        background: none;
+        border-bottom: white 1px solid; }
+    body .landing .hero-head span {
+      background: none;
+      font-size: 18px; }
+    body .landing .hero-head i {
+      color: white;
+      margin-left: -10px; }
   body .landing .column {
     height: 30vh;
     display: flex;
